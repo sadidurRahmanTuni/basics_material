@@ -6,3 +6,8 @@
 
 # Ignore compiled Python files
 *.pyc
+
+# Explicitly ignore the files
+iozkj.in
+tnfxf.out
+vedvj.pyc
